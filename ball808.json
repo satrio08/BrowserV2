@@ -1,1 +1,109 @@
+{
+  "Ads": {
+  "appid": "ca-app-pub-3940256099942544~3347511713",
 
+        "inter": "ca-app-pub-3940256099942544/1033173712xx",
+        "OpenAds": "ca-app-pub-3940256099942544/3419835294",
+	"native": "ca-app-pub-3940256099942544/2247696110xx",
+	"banner": "ca-app-pub-3940256099942544/6300978111xx",
+	
+
+
+        "Bidding_Open_Ads": "0",
+        "Bidding_Admob_Inter": "0",
+	"Bidding_Admob_Banner": "0",
+	"Bidding_Admob_Native": "0",
+
+
+	"interFan": "IMG_16_9_APP_INSTALL#199850962620816_199853092620603",
+	"NativeFan": "IMG_16_9_APP_INSTALL#199850962620816_199853335953912",
+	"BannerFan": "IMG_16_9_APP_INSTALL#199850962620816_199853049287274",
+
+	"Fan": "0",
+	"BannerFanAds": "1",
+	"NativeFanAds": "0",
+
+	"InterApplovinId": "a832104eb721bbe3",
+	"BannerApplovinId": "b6a563740264bbca",
+	"MrcApplovinId": "0",
+	"VideoReword": "0",
+	"NativeApplovin": "89bd07f7f54739de",
+
+	"Applovin": "0",
+	"BannerApplovin": "0",
+
+	"Bidding_Applovin_Inter": "0",
+	"Bidding_Applovin_Banner": "0",
+	"Bidding_Applovin_Mrc": "0",
+	"Bidding_Applovin_Native": "0",
+	"Bidding_Applovin_VideoReword": "0",
+
+
+	"IdStarapp": "205147707",
+        "Starapp": "0",
+
+
+	"idappdeal": "4454b5e962c2c6e9f027ece3bbc19a2a24483de7a97b07a1",
+        "appdeal": "0",
+
+        
+        "Backup_Fan_inter": "0",
+        "Backup_Admob_Inter": "0",
+        "Backup_Appodeal": "0",
+        "Backup_ApplovinMax_Inter": "0",
+        "Backup_Startapp_Inter": "0",
+        "Backup_Applovin_Inter": "0",
+
+        "Backup_Admob_Banner": "0",
+        "Backup_Fan_Banner": "0",
+        "Backup_Applovin_Banner": "1",
+
+        "Backup_Fan_Native": "0",
+        "Backup_Applovin_native": "0",
+
+
+	"button": "0",
+	"splase": "0",
+
+	"adsbrutal": "0",
+	"adsbiasa": "1",
+
+	
+	"Redirect": "0",
+	"AppPackageName": "com.hihonor.health",
+	"OneSignal": "02edab5a-8631-4911-bca4-9ab0c6856f37",
+        "Notification": "1",
+
+
+
+
+ 	"data_server_betting": "LINK SITE",
+ 	"data_server_sccore": "LINK SITE",
+ 	"data_server_live": "LINK SITE",
+
+  
+"iklan": "1"
+    }
+
+,
+  "Notification": [
+    {
+      "id": 1,
+      "judul": "LiveScore: Live Sports Scores",
+      "image": "https://play-lh.googleusercontent.com/ZaslmjEgpyxlF9mAyzMjngN9DXzVJ2p_1lWlb9WmvcYrwEW5ETS1d6jIDaFOcDEN5AxV=w480-h960-rw",
+      "link": "https://play.google.com/store/search?q=livescore&c=apps&hl=id-ID"
+    },
+  {
+      "id": 2,
+      "judul": "Pinjol ilegal cepat cair guide",
+      "image": "https://play-lh.googleusercontent.com/i-xCUTFGK6t9IedieA2lDJ3hX5LZ8MGOtRjW1J-vSwinEwErpDcy82QccPV7NrzjkmUy=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.pinjollegalllll.toppserver&hl=id-ID"
+    },
+  {
+      "id": 3,
+      "judul": "Japan Browser",
+      "image": "https://play-lh.googleusercontent.com/CYoUUSVo9GG7BkSuGVedSPD6d3D52rasMgqx6r1FDaDRN5C2rJUETp8Gb93Q-DUdQw=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.japan.browserhot&hl=id-ID"
+    }
+  ]
+}
