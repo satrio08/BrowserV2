@@ -1,75 +1,36 @@
 {
-	"keyword1": "Insurance",
-	"keyword2": "Car insurance",
-	"keyword3": "credit mortgage",
-	"keyword4": "Mortgage",
-	"keyword5": "home insurance",
-	"keyword6": "Attorney",
-	"keyword7": "mortgage rates",
-	"keyword8": "mortgage Loans",
-	"keyword9": "car accident Lawyer",
 
-
-	"latitude": "59.913868",
-	"longitude": "10.752245",
-	"negara": "norway",
-
-	"native": "ca-app-pub-3940256099942544/2247696110",
-	"banner": "ca-app-pub-3940256099942544/6300978111",
-	"inter": "ca-app-pub-3940256099942544/1033173712",
 	"appid": "ca-app-pub-3940256099942544~3347511713",
 
-	"kyword": "funny videos ",
-
-	"Iklanku": "0",
-
-	"interFan": "1596481934153029_1650001515467737",
-	"NativeFan": "1596481934153029_1650001678801054",
-	"BannerFan": "1596481934153029_1650001422134413",
+	"inter": "ca-app-pub-3940256099942544/1033173712xx",
+	"OpenAds": "ca-app-pub-3940256099942544/3419835294",
+	"native": "ca-app-pub-3940256099942544/2247696110",
+	"banner": "ca-app-pub-3940256099942544/6300978111",
 
 
 
-	"IdUnity": "1689120",
-	"reword": "rewardedVideo",
-	"IdStarapp": "205147707",
-
-	"Tapdax_Appid": "60e1607a86c31c4e07c1071f",
-	"Tapdax_key": "1e4da52c-df14-4690-94e3-4155b474b8cc",
+	"Bidding_Open_Ads": "0",
+	"Bidding_Admob_Inter": "0",
+	"Bidding_Admob_Banner": "0",
+	"Bidding_Admob_Native": "0",
 
 
+	"interFan": "IMG_16_9_APP_INSTALL#199850962620816_199853092620603",
+	"NativeFan": "IMG_16_9_APP_INSTALL#199850962620816_199853335953912",
+	"BannerFan": "IMG_16_9_APP_INSTALL#199850962620816_199853049287274",
 
-	"Tipe_iklan": "2",
+	"Fan": "0",
+	"BannerFanAds": "0",
+	"NativeFanAds": "0",
 
-	"Tipe_Inter": "0",
-	"Tipe_Banner": "0",
-	"Tipe_Native": "0",
-
-
-
-	"idmopub": "1xxx",
-	"idappdeal": "71d042c73a427264539a82e8d079577212f72b948fb7d53f",
-
-	"Admob": "0",
-
-	"Starapp": "0",
-
-	"Fan": "1",
-
-	"Applovin": "0",
-
-	"Unity": "0",
-
-	"appdeal": "0",
-
-	"mopub": "0",
-
-
-
-	"InterApplovinId": "537e19f2f92132f8",
-	"BannerApplovinId": "9a6b15a371a92518",
+	"InterApplovinId": "a832104eb721bbe3",
+	"BannerApplovinId": "b6a563740264bbca",
 	"MrcApplovinId": "0",
 	"VideoReword": "0",
-	"NativeApplovin": "675de1870de10b77",
+	"NativeApplovin": "89bd07f7f54739de",
+
+	"Applovin": "0",
+	"BannerApplovin": "0",
 
 	"Bidding_Applovin_Inter": "0",
 	"Bidding_Applovin_Banner": "0",
@@ -78,51 +39,47 @@
 	"Bidding_Applovin_VideoReword": "0",
 
 
+	"IdStarapp": "205147707",
+	"Starapp": "0",
 
 
-
-	"Bidding_Admob_Inter": "0",
-	"Bidding_Admob_Banner": "0",
-	"Bidding_Admob_Native": "0",
+	"idappdeal": "4454b5e962c2c6e9f027ece3bbc19a2a24483de7a97b07a1",
+	"appdeal": "0",
 
 
+	"Backup_Fan_inter": "0",
+	"Backup_Admob_Inter": "0",
+	"Backup_Appodeal": "0",
+	"Backup_ApplovinMax_Inter": "0",
+	"Backup_Startapp_Inter": "0",
+	"Backup_Applovin_Inter": "1",
 
+	"Backup_Admob_Banner": "0",
+	"Backup_Fan_Banner": "0",
+	"Backup_Applovin_Banner": "0",
 
-	"BannerAdmob": "0",
-	"NativeAdmob": "0",
+	"Backup_Fan_Native": "0",
+	"Backup_Applovin_native": "0",
 
-	"BannerFanAds": "1",
-	"NativeFanAds": "1",
-
-	"BannerApplovin": "0",
-
-	"RandomAds": "0",
 	"button": "0",
 	"splase": "0",
-	"pencari": "video",
 
 	"adsbrutal": "0",
 	"adsbiasa": "1",
-	
-	
+
+
 	"Redirect": "0",
 	"AppPackageName": "com.hihonor.health",
 	"OneSignal": "02edab5a-8631-4911-bca4-9ab0c6856f37",
-  
-       "browser": "https://www.google.com/search?q=",
-       "browserServer": "https://yandex.com/search/?text=",
+	"Notification": "1",
 
-	"k1": "https://www.bing.com/search?q=",
-	"k2": "https://www.bing.com/search?q=",
-	"k3": "https://www.bing.com/search?q=",
-	"k4": "https://www.bing.com/search?q=",
-	"k5": "https://www.bing.com/search?q=",
-	"k6": "https://www.bing.com/search?q=",
-	"k7": "https://www.bing.com/search?q=",
+	"browser": "https://www.google.com/search?q=",
+	"browserServer": "https://yandex.eu/video/search?from=tabbar&text=",
 
 
 
 
 
-	"iklan": "1"
+
+	"iklan": "1"
 }
